@@ -19,8 +19,13 @@ Link to course information is available [here.](https://www.coursera.org/learn/g
 - peft
 - trl (transformer reinforced-learning)
 
+## Slides
+Attached pdf slides are provided by DeepLearningAI and are updated as of Jun 2023 by the authors. These slides are not updated base on the notes as follows:
 
-## Jupyter notebook information
+**'These slides are not regularly maintained and you might find missing topics and incorrect information when compared to the lecture videos. We try to fix the errors as soon as we can but we highly recommend adding your own notes to these slides.'**
+
+
+## Details of individual Jupyter notebooks
 - Lab 1: Generative AI Use Case: Summarize Dialogue
   -  Prompting with Zero/One-shot/Multi-shot Inference with Prompt template
   -  Hyperparameter tuning for Inference involving:

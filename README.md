@@ -44,7 +44,7 @@ Attached weekly pdf slides are provided by DeepLearning.AI and are updated as of
   - Fine tune LLM via Reinforcement Learning (RL) using Proximal Policy Optimization (PPO) model with Meta AI's RoBERTa-based hate speech model acting as reward model (feedback to FLAN-T5 generated summaries)to achieve detoxified summaries, aided by the use of HuggingFace's pipeline library.
 
 
-## Licence
+## Licence for slides
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a

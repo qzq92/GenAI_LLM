@@ -20,7 +20,7 @@ Link to course information is available [here.](https://www.coursera.org/learn/g
 - trl (transformer reinforced-learning)
 
 ## Slides
-Attached pdf slides are provided by DeepLearningAI and are updated as of Jun 2023 by the authors. These slides are not updated base on the notes as follows:
+Attached weekly pdf slides are provided by DeepLearning.AI and are updated as of Jun 2023 by the authors. These slides are distributed under the Creative Commons License. These slides are not updated base on the notes as follows:
 
 **'These slides are not regularly maintained and you might find missing topics and incorrect information when compared to the lecture videos. We try to fix the errors as soon as we can but we highly recommend adding your own notes to these slides.'**
 
